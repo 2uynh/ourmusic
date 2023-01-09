@@ -109,7 +109,7 @@ html {
     cursor: pointer;
   }
   .range {
-    /*-webkit-appearance: none; /* Hides the slider so that custom slider can be made */
+    -webkit-appearance: none; /* Hides the slider so that custom slider can be made */
     width: 100%; /* Specific width is required for Firefox. */
     background: transparent; /* Otherwise white in Chrome */
     margin-bottom: 20px;
